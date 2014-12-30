@@ -1,5 +1,5 @@
 set :application, 'first_app'
-set :repo_url, 'https://sayginburak:targitab1993@github.com:sayginburak/first_app.git'
+set :repo_url, 'https://sayginburak:targitab1993@github.com/sayginburak/first_app.git'
 
 set :deploy_to, '/home/deployer/first_app'
 
